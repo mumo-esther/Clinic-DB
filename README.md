@@ -56,7 +56,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **[Animals data table]**
+- **[Patients data table]**
+- **[Treatments data table]**
+- **[Invoices data table]**
+- **[Invoice-items data table]**
+- **[Medical-histories data table]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
