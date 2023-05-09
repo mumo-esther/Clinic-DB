@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Vet-Clinic Database] <a name="about-project"></a>
+# 📖 [Clinic Database] <a name="about-project"></a>
 
-**[Vet-Clinic Database]** is a project about creating the data structure for a vet clinic using a relational database. Database contains tables of animals, animals' owners, clinic employees and visits. Built with PostgresSQL.
+**[Clinic Database]** is a project about creating the data structure for a clinic using a schema diagram. Database contains tables of patients, treatments' invoices, invoice_items and medical histories. Built with PostgresSQL.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -80,7 +80,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-`cd my-folder git clone git@github.com:mumo-esther/vet-clinic.git`
+`cd my-folder git clone https://github.com/mumo-esther/Clinic-DB.git`
 
 ### Install
 
@@ -147,7 +147,6 @@ If you like this project give it a star and you can inbox me from my profile if 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 - Microverse.
-- Web Dev Simplified, Youtube
 
 I would like to thank my coding partners and my family for their support.
 
